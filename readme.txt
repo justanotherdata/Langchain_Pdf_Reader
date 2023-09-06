@@ -10,3 +10,6 @@ In a new terminal run the steps sequentially.
 3)Once done run the command: streamlit run main.py
 
 4)Your app has started. To close press ctrl+c
+
+
+Note: You will need to make a .env file to setup your 'OPENAI_API_KEY'
