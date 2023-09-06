@@ -1,0 +1,4 @@
+Streamlit
+Langchain
+PyPDF2
+openai
